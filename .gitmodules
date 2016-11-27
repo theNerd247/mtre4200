@@ -1,0 +1,6 @@
+[submodule "arcb"]
+	path = arcb
+	url = ./cmake/arcb/
+[submodule "modulartex"]
+	path = modulartex
+	url = ./cmake/modulartex
